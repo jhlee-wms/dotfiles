@@ -1,0 +1,15 @@
+[user]
+  name = jhlee-wms
+  email = ji_hui.lee@samsung.com
+
+[core]
+  editor = vim
+
+[alias]
+  lg = log --oneline --graph --decorate --all
+  st = status -sb
+  co = checkout
+  br = branch
+
+[pull]
+  rebase = true
